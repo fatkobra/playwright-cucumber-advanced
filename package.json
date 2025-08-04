@@ -1,0 +1,16 @@
+{
+  "name": "playwright-cucumber-advanced",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npx bddgen && npx playwright test",
+    "show-report": "npx http-server ./cucumber-report -c-1 -o index.html"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.1.0",
+    "playwright-bdd": "^8.3.1"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.1"
+  }
+}

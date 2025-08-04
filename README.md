@@ -46,7 +46,7 @@ Starts a local server at http://localhost:8080 and opens the report.
 
 bash
 npm install --save-dev http-server
-
+```
 
 # Notes
 Configured in playwright.config.ts using defineBddConfig().

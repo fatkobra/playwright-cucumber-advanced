@@ -5,7 +5,7 @@ A robust UI testing setup using **Playwright** with **Cucumber-style BDD** via `
 ---
 
 ##  Project Structure
-
+```
 .
 ├── cucumber-report/ # HTML Cucumber reports
 ├── playwright-report/ # Playwright traces and HTML reports
@@ -19,7 +19,7 @@ A robust UI testing setup using **Playwright** with **Cucumber-style BDD** via `
 ├── playwright.config.ts # Playwright + BDD configuration
 ├── package.json # Project dependencies and scripts
 └── tsconfig.json # TypeScript config
-
+```
 
 ---
 

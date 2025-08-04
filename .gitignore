@@ -1,0 +1,11 @@
+.auth/
+.idea/
+.env
+.history
+node_modules/
+.features-gen
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+cucumber-report/

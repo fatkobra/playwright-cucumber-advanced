@@ -1,6 +1,6 @@
 #  Playwright Cucumber BDD Testing Framework
 
-A robust UI testing setup using **Playwright** with **Cucumber-style BDD** via `playwright-bdd`.
+A robust UI testing setup using **Playwright** with **Cucumber-style BDD** via `playwright-bdd`. BDD - Behavior Driven Development.
 
 ---
 
